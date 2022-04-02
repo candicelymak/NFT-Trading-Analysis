@@ -1,1 +1,1 @@
-# NTF-Trading-Analysis
+# NFT-Trading-Analysis
